@@ -7,7 +7,7 @@
     "frontend-project-lvl1": "bin/brain-games.js",
     "brain-games": "bin/brain-games.js"
   },
-    "type" : "module",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/And0nata/frontend-project-lvl1/issues"
   },
-  "homepage": "https://github.com/And0nata/frontend-project-lvl1#readme"
+  "homepage": "https://github.com/And0nata/frontend-project-lvl1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
