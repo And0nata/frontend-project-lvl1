@@ -23,5 +23,5 @@ if(correctAnswer<3) {
           console.log(`'no' is wrong answer ;(. Correct answer was 'yes'.`)
       }
      console.log(`Let's try again, ${name1}!`);
-  }
-console.log(`Congratulations, ${name1}!`)
+    };
+console.log(`Congratulations, ${name1}!`);
